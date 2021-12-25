@@ -1,4 +1,4 @@
-# Tea-Quality-Testing
+# Wine-Quality-Testing
 A Data Mining and Warehousing project to check the quality of Tea.
 
 # In this project 
